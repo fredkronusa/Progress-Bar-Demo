@@ -1,0 +1,24 @@
+Production Quality Considerations
+	CSS
+		- minification
+		- remove main.css overrights and integrate with boostrap scafolding
+		- remove unsued styles from bootstrap.css to improve page loading speed
+		
+	Javascript
+		- minification
+		- convert the functions into a plugin
+		- ensure the progress-bar.js only loads for pages where a progress bar is needed 
+		- write test
+		
+	HTML
+		- minification
+		- validation
+		- ensure colors have enough contrast to comply with usability
+		- ensure page loads pixel perfect to all browsers/mobile screens
+		- Ensure bugs are fixed for ie7
+		
+		
+		
+		
+		
+
